@@ -1,5 +1,7 @@
 # is-rpm
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/t1st3/is-rpm.svg)](https://greenkeeper.io/)
+
 [![NPM version](https://img.shields.io/npm/v/is-rpm.svg)](https://www.npmjs.com/package/is-rpm)
 [![Build Status](https://travis-ci.org/t1st3/is-rpm.svg?branch=master)](https://travis-ci.org/t1st3/is-rpm)
 
